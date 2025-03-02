@@ -2,6 +2,7 @@
   "name": "steamworks.js",
   "version": "1.0.0",
   "type": "module",
+  "types": "types/index.d.ts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
