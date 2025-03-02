@@ -13,6 +13,6 @@
 
 
   "dependencies": {
-    "@steamworks-ffi/node": "github:steamworks-ffi/node",
+    "@steamworks-ffi/node": "github:steamworks-ffi/node"
   }
 }
