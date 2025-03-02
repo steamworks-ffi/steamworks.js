@@ -1,3 +1,4 @@
-export default steamworks;
-import steamworks from "@steamworks-ffi/node";
+export default class SteamWorks extends steamworksFFI {
+}
+import steamworksFFI from "@steamworks-ffi/node";
 //# sourceMappingURL=index.d.ts.map
